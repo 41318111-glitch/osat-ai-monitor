@@ -25,7 +25,8 @@ venv/
 frontend/dist/
 .tools/
 
-# Logs & OS
+# Logs & OS & Archives
 *.log
+*.rar
 .DS_Store
 Thumbs.db
