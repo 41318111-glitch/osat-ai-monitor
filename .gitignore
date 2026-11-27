@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Environment & Secrets
+.env
+.env.*
+*.local
+
+# SQLite Databases
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Build outputs & Local portable tools
+frontend/dist/
+.tools/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
